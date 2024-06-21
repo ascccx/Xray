@@ -43,7 +43,7 @@
 
 # 文档
 安装命令如下：
-wget https://github.com/233boy/Xray/archive/main.tar.gz -O Xray-main.tar.gz;tar -zxvf Xray-main.tar.gz;cd Xray-main;chmod +x i*;./i* -l
+wget https://github.com/ascccx/Xray/archive/main.tar.gz -O Xray-main.tar.gz;tar -zxvf Xray-main.tar.gz;cd Xray-main;chmod +x i*;./i* -l
 
 安装及使用：https://233boy.com/xray/xray-script/
 
